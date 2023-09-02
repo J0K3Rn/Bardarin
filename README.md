@@ -2,10 +2,10 @@
 
 Project is still in a early state. 
 
-Uses a Googles Bard to generate sentences given a word in Chinese (Mandarin) to study.
-Generated Sentences are saved to an output file for further review.
+Uses a Googles Bard to generate sentences given a word in Chinese (Mandarin) to study. Provides English translation and pinyin. Generated Sentences are saved to an output file for further review.
 
 Bard API: https://github.com/dsdanielpark/Bard-API
+
 Builds upon many aspects from my Chinese-Flash-Cards repository: https://github.com/J0K3Rn/Chinese-Flash-Cards 
 
 How to run:
