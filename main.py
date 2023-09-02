@@ -9,10 +9,10 @@ session = requests.Session()
 # All of these cookies are temporary and reset occasionally
 # Replace the below x's with your Google Bard cookies!
 # Follow the steps in the README
-token = "aQgPcrTJda3yp4rrzZx67jQPd0OuoprkWXtov-91dz6Td9DOBCpTtRa5n7AFlE8ajNigww."  # token is same as __Secure-1PSID
-session.cookies.set("__Secure-1PSID", "aQgPcrTJda3yp4rrzZx67jQPd0OuoprkWXtov-91dz6Td9DOBCpTtRa5n7AFlE8ajNigww.")
-session.cookies.set("__Secure-1PSIDCC", "APoG2W_QjBqx0EM1BoUWusN2OsupNZ7jAMI0U55sUAeOkYfMu0uDzMtY9l3BPUoa0nW4NbCoafo")
-session.cookies.set("__Secure-1PSIDTS", "sidts-CjIBSAxbGYJRZ8IhZ9LuspZGbJWiWnbr-yJfgyiUCEwA3aGCdRPDhrk6-cpbBZi4FY4gLxAA")
+token = "xxxx"  # token is same as __Secure-1PSID
+session.cookies.set("__Secure-1PSID", "xxxx")
+session.cookies.set("__Secure-1PSIDCC", "xxxx")
+session.cookies.set("__Secure-1PSIDTS", "xxxx")
 # And that's it! Now you can run the program!
 session.headers = SESSION_HEADERS
 
