@@ -9,6 +9,7 @@ Bard API: https://github.com/dsdanielpark/Bard-API
 Builds upon many aspects from my Chinese-Flash-Cards repository: https://github.com/J0K3Rn/Chinese-Flash-Cards 
 
 Todo:
+- Use Selenium to open up Bard and automate cookie grabbing process
 - Create app for UI
 - Implement Google Voice (Narrator)
 - Save generated Bard output to csv
