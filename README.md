@@ -2,11 +2,17 @@
 
 Project is still in a early state. 
 
-Uses a Googles Bard to generate sentences given a word in Chinese (Mandarin) to study. Provides English translation and pinyin. Generated Sentences are saved to an output file for further review.
+Utilize LLM’s to help in your language studies! Uses Google's Bard to generate sentences in Chinese (Mandarin) to study. Provides English translations and pinyin. Generated Sentences are saved to an output file for further review.
 
 Bard API: https://github.com/dsdanielpark/Bard-API
 
 Builds upon many aspects from my Chinese-Flash-Cards repository: https://github.com/J0K3Rn/Chinese-Flash-Cards 
+
+Todo:
+- Create app for UI
+- Implement Google Voice (Narrator)
+- Save generated Bard output to csv
+- Gameify the app
 
 How to run:
 - Python 3.11.4 is highly recommended to resolve tkinter issues
