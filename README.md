@@ -14,6 +14,7 @@ Todo:
 - Implement Google Voice (Narrator)
 - Save generated Bard output to csv
 - Gameify the app
+- Implement Google's Speech to Text so user can practice pronunciation
 
 How to run:
 - Python 3.11.4 is highly recommended to resolve tkinter issues
