@@ -15,6 +15,7 @@ Todo:
 - Save generated Bard output to csv
 - Gameify the app
 - Implement Google's Speech to Text so user can practice pronunciation
+- Implement the ability to click on characters to pop up the direct translation (similar to what Duolingo does)
 
 How to run:
 - Python 3.11.4 is highly recommended to resolve tkinter issues
