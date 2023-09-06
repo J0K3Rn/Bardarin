@@ -2,7 +2,7 @@
 
 Project is still in a early state. 
 
-Utilize LLM’s to help in your language studies! Uses Google's Bard to generate sentences in Chinese (Mandarin) to study. Provides English translations and pinyin. Generated Sentences are saved to an output file for further review.
+Utilize LLM’s to help in your language studies! Uses Google's Bard to generate sentences from the 1000 most common words in Chinese (Mandarin) to study. Provides English translations and pinyin. Generated Sentences are saved to an output file for further review.
 
 Bard API: https://github.com/dsdanielpark/Bard-API
 
