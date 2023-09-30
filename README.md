@@ -1,6 +1,6 @@
 # Bardarin
 
-Project is still in a early state. 
+Project is still in a early state. Currently experiencing multiple issues with using the 3rd-party Bard API. See my Mandarin-Learning-Chatbot which utilizes ChatGPT! https://github.com/J0K3Rn/Mandarin-Learning-Chatbot
 
 Utilize LLM’s to help in your language studies! Uses Google's Bard to generate sentences from the 1000 most common words in Chinese (Mandarin) to study. Provides English translations and pinyin. Generated Sentences are saved to an output file for further review.
 
